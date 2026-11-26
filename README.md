@@ -1,10 +1,10 @@
-# My Own Name, Three Times
+# The Faster Version
 
 [![make.fun · u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163](https://make.fun/badge/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163.svg)](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163)
 [![rank](https://make.fun/badge/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/kuzan-creator/funniest-excuse-meeting/rank.svg)](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163)
 [![reward](https://make.fun/badge/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/kuzan-creator/funniest-excuse-meeting/reward.svg)](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163)
 
-My Own Name, Three Times — one 129-character text, the funniest excuse for skipping a meeting: last time you took the notes, your only action item was your own name, three times, so you decline before you assign yourself more work.
+The Faster Version — one 124-character text, the funniest excuse for skipping a meeting: you read the 47-page pre-read, and the meeting is just someone reading it out loud slower, so you stay with the faster version.
 
 ## Run it
 
